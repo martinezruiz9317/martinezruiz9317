@@ -1,5 +1,5 @@
 <h1>Hi , I'm Miguel</h1>
-<p>I'm the founder of ScriptLab and a software developer.</p>
+<p>Entrepreneur & Software developer. Founder of ScriptLab.</p>
 
 <h2>Skills</h2>
 <p>
